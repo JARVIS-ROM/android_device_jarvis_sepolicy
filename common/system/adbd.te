@@ -1,0 +1,2 @@
+allow adbd slef:process { setcurrent };
+allow system_app logpersistd_logging_prop:file { read };
